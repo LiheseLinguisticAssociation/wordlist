@@ -1,2 +1,5 @@
 LE,PoS,Definition
-HO,N,Human (Person); Second Person Animate Singular Pronoun (= you)
+HO,Noun;Pronoun,Human (Person); Second Person Animate Singular Pronoun (= you)
+VIHO,Pronoun,Second Person Animate Plural Pronoun (= you)
+IHO,Pronoun,First Person Animate Singular Pronoun (= I)
+IHOVI,Pronoun,First Person Animate Plural Pronoun (= us)
