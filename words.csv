@@ -1,6 +1,6 @@
 Lihese,Part of Speech,Definition
-HO,Noun; Pronoun,Human (Person); Second Person Animate Singular Pronoun (= you, he, she)
-VIHO,Pronoun,Second Person Animate Plural Pronoun (= you, they)
+HO,Noun; Pronoun,Human (Person); Second Person Animate Singular Pronoun (= you; he; she)
+VIHO,Pronoun,Second Person Animate Plural Pronoun (= you; they)
 IHO,Pronoun,First Person Animate Singular Pronoun (= I)
 IHOVI,Pronoun,First Person Animate Plural Pronoun (= us)
 TO,Pronoun,Second Person Inanimate Pronoun (= it (or plural of it)(reffering to inanimte object))
