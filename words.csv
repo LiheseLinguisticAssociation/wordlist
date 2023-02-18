@@ -1,17 +1,29 @@
 Lihese,Part of Speech,Definition
+
 HO,Noun; Pronoun,Human (Person); Second Person Animate Singular Pronoun (= you; he; she)
 VIHO,Pronoun,Second Person Animate Plural Pronoun (= you; they)
 IHO,Pronoun,First Person Animate Singular Pronoun (= I)
 IHOVI,Pronoun,First Person Animate Plural Pronoun (= us)
+
 TO,Pronoun,Second Person Inanimate Pronoun (= it (or plural of it)(reffering to inanimte object))
+
 KO,Noun,Animal
+
 PA,Noun,Place
+
 SO,Adjective; Adjective; Noun,Good; General Positive Word; Day
 MO,Adjective; Adjective; Noun,Bad; General Negative Word; Night
+
 DE,Verb; Verb,Do; Create
+
 ME,Verb; Verb,Be; Have
+
 SE,Verb; Noun,See; Eye
+
 CE,Verb; Noun,Hear; Ear
+
 TE,Verb; Noun,Tell; Mouth
+
 HE,Verb; Noun,Taste; Tongue
+
 VE,Verb; Noun,Smell; Nose
