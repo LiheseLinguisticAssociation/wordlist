@@ -1,29 +1,142 @@
-Lihese,Part of Speech,Definition
-
-HO,Noun; Pronoun,Human (Person); Second Person Animate Singular Pronoun (= you; he; she)
-VIHO,Pronoun,Second Person Animate Plural Pronoun (= you; they)
-IHO,Pronoun,First Person Animate Singular Pronoun (= I)
-IHOVI,Pronoun,First Person Animate Plural Pronoun (= us)
-
-TO,Pronoun,Second Person Inanimate Pronoun (= it (or plural of it)(reffering to inanimte object))
-
-KO,Noun,Animal
-
-PA,Noun,Place
-
-SO,Adjective; Adjective; Noun,Good; General Positive Word; Day
-MO,Adjective; Adjective; Noun,Bad; General Negative Word; Night
-
-DE,Verb; Verb,Do; Create
-
-ME,Verb; Verb,Be; Have
-
-SE,Verb; Noun,See; Eye
-
-CE,Verb; Noun,Hear; Ear
-
-TE,Verb; Noun,Tell; Mouth
-
-HE,Verb; Noun,Taste; Tongue
-
-VE,Verb; Noun,Smell; Nose
+Lihese Word,Part of Speech,Definition
+A,,and
+VE,,in
+TA,,on / about
+O,,for
+BO,,or / but
+TO,,(2nd person) inanimate singular pronoun
+VITO,,(2nd person) inanimate pronoun plural pronoun
+HO,,body / man / 2nd person animate singular pronoun
+IHO,,1st person animate singular pronoun
+VIHO,,2nd person animate plural pronoun
+IHOVI,,2nd person animate plural pronoun
+SOHO,,health / love / heart / greeting
+MOHO,,hatred
+HOSOSOHO,,sense
+HIHO,,robot
+SUMURUHO,,excrement
+SEHO,,advertising
+IHOVIKI,,all / community
+IHOKIMO,,no one
+POSE,,farewell
+MEHO,,owner
+PA,,place
+SOPA,,outdoors
+MOPA,,inside
+SEMEPA,,trade
+KOSEMEPA,,pet store
+LISEMEPA,,retail
+KISEMEPA,,wholesale
+HOSEMEPA,,restaurant
+SUMURUHOPA,,toilet
+HOPA,,nation
+HOPAHO,,citizen
+MOHOPAHO,,stranger
+HOMEHOSOPA,,school / class
+LIPA,,box
+KIPEPA,,forest
+MOMESOHO,,fear
+KO,,animal / being / life
+SUMURUKO,,cow
+RUKO,,fox
+SOKO,,dog
+MOSOKO,,wolf
+MOSOKOPOSOKO,,wolfdog
+SOMOSUMURUKIKO,,elephant
+KIKO,,lion
+PAKO,,zoo
+POKO,,death
+SO,,light / day / yes / good
+MO,,dark / night / no / bad
+DE,,do / to create / to behave (in a manner)
+MEMODESO,,repair
+MODE,,destroy
+DESO,,joke / game
+DESOHO,,player
+PODE,,movement
+MOPODE,,back
+SOPODE,,forward
+IHOVIKIDE,,rules / laws / instructions
+IHOVIKIDELI,,rights
+ME,,have / be / can
+HOME,,give
+IHOME,,get
+DEHOME,,take
+HOSO,,mind / think / feel
+SE,,see / read / eyes
+CE,,hear / ears
+HE,,taste / tongue / language
+TE,,talk / mouth
+MOCE,,deaf
+MOSE,,blind
+MOTE,,dumb
+VE,,smell / nose
+DESEHE,,write
+SEMO,,sleep
+PODEHO,,walk
+HOMEHOSO,,teach
+IHOMEHOSO,,learn
+HOSOME,,know
+HOMEMO,,surrender
+SEME,,buy / want
+MEHOME,,sell
+SOTE,,truth
+MOTE,,lie
+TELIPA,,telephone
+TESOTE,,ask
+TEME,,topic
+PO,,future
+MOREMOPO,,present
+RE,,past
+RU,,red
+MU,,blue
+MOMU,,indigo
+SU,,green
+SURU,,yellow
+MOSURU,,orange
+MURU,,purple
+SOMURU,,pink
+MUSU,,turquoise
+SUMURU,,brown / colour
+SOSUMURU,,white
+MOSUMURU,,black
+SOMOSUMURU,,grey
+LISEHE,,letter
+SEHE,,word
+KISEHE,,sentence
+VIKISEHE,,paragraph
+LICE,,page
+CE,,part
+REKISEHE,,record
+LIPO,,point / edge
+VIVILIPO,,quadrilateral
+DECE,,music
+DESE,,visual art
+KI,,heavy / large / high
+LI,,light / small / low
+VI,,a lot / two
+DEVI,,count
+HI,,same
+MOHI,,other / or
+KIMI,,none / zero / nothing
+KIVI,,all
+MI,,little
+RI,,fast
+HI,,slowly
+HOSI,,fictional
+HOMI,,given / inherited
+I,,one
+IVI,,three
+VIVI,,four
+VIHOPI,,international
+MI,,heat / summer
+SI,,turn off
+RA,,right
+LA,,he takes
+HOSU,,food
+SOKI HOSU,,dog food
+SUMURUKOHOSU,,hamburger
+PE,,plant
+KIPE,,tree
+VA,,water / drink
+DO,,clothing
